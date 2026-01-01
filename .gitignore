@@ -1,0 +1,5 @@
+webui.db
+*.bin
+*.gguf
+.env
+open-webui/
